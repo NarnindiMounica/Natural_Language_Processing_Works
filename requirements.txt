@@ -2,3 +2,4 @@ nltk
 spacy
 ipykernel
 pandas
+scikit-learn
