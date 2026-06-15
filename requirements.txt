@@ -3,3 +3,4 @@ spacy
 ipykernel
 pandas
 scikit-learn
+gensim
