@@ -4,3 +4,4 @@ ipykernel
 pandas
 scikit-learn
 gensim
+tqdm
