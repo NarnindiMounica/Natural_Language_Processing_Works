@@ -6,3 +6,4 @@ scikit-learn
 gensim
 tqdm
 bs4
+lxml
